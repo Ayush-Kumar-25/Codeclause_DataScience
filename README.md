@@ -5,7 +5,7 @@ So for this, we will have a data file that contains the color name and its value
 
 The project folder contains 3 files:
 
-color_detection.ipynb - main source code of our project
+color_detection.py - main source code of our project
 
 colorpic.jpg - sample image for experimenting
 
